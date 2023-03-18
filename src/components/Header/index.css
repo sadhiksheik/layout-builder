@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.header-container {
+  background-color: #cbd5e1;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 70%;
+}
+.header-heading {
+  color: #475569;
+  font-weight: bold;
+  font-size: 27px;
+}
